@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Dead
+  - Melee
+  - Weapon
+  - Wall
+  - EnemyMelee
+  - GameControlle
+  - Bullet
+  - Big
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 169674711
+    locked: 0
+  - name: foreground
+    uniqueID: 771707501
+    locked: 0
+  - name: Characters
+    uniqueID: 3744178649
+    locked: 0
+  - name: Walls
+    uniqueID: 4272748663
+    locked: 0
